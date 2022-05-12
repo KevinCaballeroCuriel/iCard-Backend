@@ -35,7 +35,7 @@ schema_view = get_schema_view(
         default_version='v1',
         description="Documentacion de la api de iCard",
         terms_of_service="https://www.google.com/policies/terms/",
-        contact=openapi.Contact(email="kevin.caballerocuriel@gmail.com"),
+        contact=openapi.Contact(email="---"),
         license=openapi.License(name="BSD License"),
     ),
     public=True,
