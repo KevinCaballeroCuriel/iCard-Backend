@@ -8,4 +8,4 @@ After cloning or downloading a branch, you must execute the following command `p
 
 ## iCard — Frontend
 
-Backend: [iCard — Frontend](https://github.com/KevinCaballeroCuriel/iCard-Frontend) 
+Frontend: [iCard — Frontend](https://github.com/KevinCaballeroCuriel/iCard-Frontend) 
